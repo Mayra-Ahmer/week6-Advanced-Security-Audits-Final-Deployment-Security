@@ -1,0 +1,15 @@
+{
+  "name": "week6-security-audit-project",
+  "version": "1.0.0",
+  "description": "Secure deployment after security audit",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mayra Ahmer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.0.0"
+  }
+}
