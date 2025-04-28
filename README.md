@@ -34,7 +34,7 @@ To deploy the application using Docker:
 docker build -t my-app .
 docker run -p 80:80 my-app
 
-### Security Audits Performed
+## Security Audits Performed
 1. OWASP ZAP Scan
 OWASP ZAP was used to identify common web vulnerabilities like missing security headers, XSS issues, and weak session management.
 
